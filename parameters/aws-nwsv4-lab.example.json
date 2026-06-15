@@ -1,10 +1,10 @@
 [
   {
     "ParameterKey": "KeyName",
-    "ParameterValue": "your-key-name"
+    "ParameterValue": "<YOUR_KEY_NAME>"
   },
   {
     "ParameterKey": "MyIpCidr",
-    "ParameterValue": "your-global-ip/32"
+    "ParameterValue": "<YOUR_GLOBAL_IP>/32"
   }
 ]

@@ -142,9 +142,7 @@ VPC: 10.0.0.0/16
 
 CloudFormation テンプレートは以下に格納しています。
 
-```text
-templates/aws-nwsv4.yaml
-```
+[templates/aws-nwsv4.yaml](templates/aws-nwsv4.yaml)
 
 このテンプレートでは、VPC、サブネット、Internet Gateway、NAT Gateway、ルートテーブル、セキュリティグループ、IAM ロール、EC2 インスタンスなどをまとめて作成します。
 
@@ -156,9 +154,7 @@ templates/aws-nwsv4.yaml
 
 パラメータファイルのサンプルは以下に格納しています。
 
-```text
-parameters/aws-nwsv4-lab.example.json
-```
+[parameters/aws-nwsv4-lab.example.json](parameters/aws-nwsv4-lab.example.json)
 
 実際にデプロイする場合は、サンプルファイルをコピーして使用します。
 
